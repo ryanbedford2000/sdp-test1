@@ -19,7 +19,7 @@ public class Addition {
       System.out.printf("Sum is %d%n", sum); // display sum
    } // end method main
 } // end class Addition
-//Hello my name is Jakub
+//Hello my name is Jakub Capture
 
 /**************************************************************************
  * (C) Copyright 1992-2018 by Deitel & Associates, Inc. and               *
